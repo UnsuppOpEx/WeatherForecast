@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">WeatherReport</string>
+<!--    <string-array name="worldCities">-->
+<!--     <item>Andorra la Vella</item>-->
+<!--     <item>Abu Dhabi</item>-->
+<!--     <item>Kabul</item>-->
+<!--     <item>St. John's</item>-->
+<!--     <item>The Valley</item>-->
+<!--     <item>Tirana</item>-->
+<!--     <item>Yerevan</item>-->
+<!--     <item>Willemstad</item>-->
+<!--     <item>Luanda</item>-->
+<!--     <item>Buenos Aires</item>-->
+<!--     <item>Pago Pago</item>-->
+<!--     <item>Vienna</item>-->
+<!--     <item>Canberra</item>-->
+<!--     <item>Oranjestad</item>-->
+<!--     <item>Mariehamn</item>-->
+<!--     <item>Baku</item>-->
+<!--     <item>Sarajevo</item>-->
+<!--     <item>Bridgetown</item>-->
+<!--     <item>Dhaka</item>-->
+<!--     <item>Brussels</item>-->
+<!--     <item>Ouagadougou</item>-->
+<!--     <item>Sofia</item>-->
+<!--     <item>Manama</item>-->
+<!--     <item>Gitega</item>-->
+<!--     <item>Porto-Novo</item>-->
+<!--     <item>Gustavia</item>-->
+<!--     <item>Hamilton</item>-->
+<!--     <item>Sucre</item>-->
+<!--     <item>Brasilia</item>-->
+<!--     <item>Nassau</item>-->
+<!--     <item>Thimphu</item>-->
+<!--     <item>Gaborone</item>-->
+<!--     <item>Minsk</item>-->
+<!--     <item>Belmopan</item>-->
+<!--     <item>Ottawa</item>-->
+<!--     <item>West Island</item>-->
+<!--     <item>Kinshasa</item>-->
+<!--     <item>Bangui</item>-->
+<!--     <item>Brazzaville</item>-->
+<!--     <item>Bern</item>-->
+<!--     <item>Yamoussoukro</item>-->
+<!--     <item>Avarua</item>-->
+<!--     <item>Santiago</item>-->
+<!--     <item>Yaounde</item>-->
+<!--     <item>Beijing</item>-->
+<!--     <item>Bogota</item>-->
+<!--     <item>San Jose</item>-->
+<!--     <item>Belgrade</item>-->
+<!--     <item>Havana</item>-->
+<!--     <item>Praia</item>-->
+<!--     <item>Willemstad</item>-->
+<!--     <item>Flying Fish Cove</item>-->
+<!--     <item>Nicosia</item>-->
+<!--     <item>Prague</item>-->
+<!--     <item>Berlin</item>-->
+<!--     <item>Djibouti</item>-->
+<!--     <item>Copenhagen</item>-->
+<!--     <item>Roseau</item>-->
+<!--     <item>Santo Domingo</item>-->
+<!--     <item>Algiers</item>-->
+<!--     <item>Quito</item>-->
+<!--     <item>Tallinn</item>-->
+<!--     <item>Cairo</item>-->
+<!--     <item>El-Aaiun</item>-->
+<!--     <item>Asmara</item>-->
+<!--     <item>Madrid</item>-->
+<!--     <item>Addis Ababa</item>-->
+<!--     <item>Helsinki</item>-->
+<!--     <item>Suva</item>-->
+<!--     <item>Stanley</item>-->
+<!--     <item>Palikir</item>-->
+<!--     <item>Torshavn</item>-->
+<!--     <item>Paris</item>-->
+<!--     <item>Libreville</item>-->
+<!--     <item>London</item>-->
+<!--     <item>St. George's</item>-->
+<!--     <item>Tbilisi</item>-->
+<!--     <item>Cayenne</item>-->
+<!--     <item>St Peter Port</item>-->
+<!--     <item>Accra</item>-->
+<!--     <item>Gibraltar</item>-->
+<!--     <item>Nuuk</item>-->
+<!--     <item>Banjul</item>-->
+<!--     <item>Conakry</item>-->
+<!--     <item>Basse-Terre</item>-->
+<!--     <item>Malabo</item>-->
+<!--     <item>Athens</item>-->
+<!--     <item>Grytviken</item>-->
+<!--     <item>Guatemala City</item>-->
+<!--     <item>Hagatna</item>-->
+<!--     <item>Bissau</item>-->
+<!--     <item>Georgetown</item>-->
+<!--     <item>Hong Kong</item>-->
+<!--     <item>Tegucigalpa</item>-->
+<!--     <item>Zagreb</item>-->
+<!--     <item>Port-au-Prince</item>-->
+<!--     <item>Budapest</item>-->
+<!--     <item>Jakarta</item>-->
+<!--     <item>Dublin</item>-->
+<!--     <item>Jerusalem</item>-->
+<!--     <item>Douglas</item>-->
+<!--     <item>New Delhi</item>-->
+<!--     <item>Diego Garcia</item>-->
+<!--     <item>Baghdad</item>-->
+<!--     <item>Tehran</item>-->
+<!--     <item>Reykjavik</item>-->
+<!--     <item>Rome</item>-->
+<!--     <item>Saint Helier</item>-->
+<!--     <item>Kingston</item>-->
+<!--     <item>Amman</item>-->
+<!--     <item>Tokyo</item>-->
+<!--     <item>Nairobi</item>-->
+<!--     <item>Bishkek</item>-->
+<!--     <item>Phnom Penh</item>-->
+<!--     <item>Tarawa</item>-->
+<!--     <item>Moroni</item>-->
+<!--     <item>Basseterre</item>-->
+<!--     <item>Pyongyang</item>-->
+<!--     <item>Seoul</item>-->
+<!--     <item>Kuwait City</item>-->
+<!--     <item>George Town</item>-->
+<!--     <item>Nur-Sultan</item>-->
+<!--     <item>Vientiane</item>-->
+<!--     <item>Beirut</item>-->
+<!--     <item>Castries</item>-->
+<!--    </string-array>-->
+
+</resources>
+
+
+
