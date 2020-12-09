@@ -21,8 +21,7 @@ import kotlin.collections.ArrayList
 /**
  * Активити ListActivity
  */
-class ListActivity : AppCompatActivity(),
-    CityClickListener {
+class ListActivity : AppCompatActivity(), CityClickListener {
     private val arrayList: MutableList<CityModel> = ArrayList()
     val displayList: MutableList<CityModel> = ArrayList()
 
@@ -51,95 +50,23 @@ class ListActivity : AppCompatActivity(),
         arrayList.add(CityModel("Ottawa", "Canada"))
         arrayList.add(CityModel("Riga", "Latvia"))
         arrayList.add(CityModel("Berlin", "Germany"))
-        arrayList.add(
-            CityModel(
-                "Belarus",
-                "Belarus"
-            )
-        )
+        arrayList.add(CityModel("Belarus", "Belarus"))
         arrayList.add(CityModel("Beijing", "China"))
         arrayList.add(CityModel("Tokyo", "Japan"))
         arrayList.add(CityModel("Ankara", "Turkey"))
-        arrayList.add(
-            CityModel(
-                "Brasilia",
-                "Brazil"
-            )
-        )
+        arrayList.add(CityModel("Brasilia", "Brazil"))
         arrayList.add(CityModel("Vienna", "Austria"))
         arrayList.add(CityModel("Havana", "Cuba"))
         arrayList.add(CityModel("Cairo", "Egypt"))
-        arrayList.add(
-            CityModel(
-                "Prague",
-                "Czech Republic"
-            )
-        )
-        arrayList.add(
-            CityModel(
-                "Copenhagen",
-                "Denmark"
-            )
-        )
-        arrayList.add(
-            CityModel(
-                "Jakarta",
-                "Indonesia"
-            )
-        )
+        arrayList.add(CityModel("Prague", "Czech Republic"))
+        arrayList.add(CityModel("Copenhagen", "Denmark"))
+        arrayList.add(CityModel("Jakarta", "Indonesia"))
         arrayList.add(CityModel("Nairobi", "Kenya"))
-        arrayList.add(
-            CityModel(
-                "Manila",
-                "Philippines"
-            )
-        )
-        arrayList.add(
-            CityModel(
-                "Bratislava",
-                "Slovakia"
-            )
-        )
-        arrayList.add(
-            CityModel(
-                "Kineshma",
-                "Russia"
-            )
-        )
+        arrayList.add(CityModel("Manila", "Philippines"))
         arrayList.add(CityModel("Shuya", "Russia"))
         arrayList.add(CityModel("Vichuga", "Russia"))
-        arrayList.add(
-            CityModel(
-                "Furmanov",
-                "Russia"
-            )
-        )
         arrayList.add(CityModel("Teikovo", "Russia"))
         arrayList.add(CityModel("Kohma", "Russia"))
-        arrayList.add(
-            CityModel(
-                "Privolzhsk",
-                "Russia"
-            )
-        )
-        arrayList.add(
-            CityModel(
-                "Zavolzhsk",
-                "Russia"
-            )
-        )
-        arrayList.add(
-            CityModel(
-                "Navoloki",
-                "Russia"
-            )
-        )
-        arrayList.add(
-            CityModel(
-                "Yuryevets",
-                "Russia"
-            )
-        )
         arrayList.add(CityModel("Puchezh", "Russia"))
         return arrayList
     }

@@ -11,11 +11,8 @@ import com.android.weatherpart3.R
 /**
  * Класс адаптер
  */
-class CityAdapter(
-    val arrayList: ArrayList<CityModel>,
-    val context: Context,
-    private val cityClickListener: CityClickListener
-) :
+class CityAdapter(val arrayList: ArrayList<CityModel>, val context: Context,
+    private val cityClickListener: CityClickListener) :
     RecyclerView.Adapter<CityAdapter.ViewHolder>() {
     private val inflater = LayoutInflater.from(context)
 
